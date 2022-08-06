@@ -43,7 +43,9 @@ All sql scripts and datascource available with detail explanation of each assign
 
 IF YOU LIKE IT !! -- Save the Repo and Hit the Follow Button
 
-DM open @datascience_with_dhruv :  Instagram Page
+DM open @datascience_with_dhruv :  Instagram Page > https://www.instagram.com/datascience_with_dhruv/
+
+Read My Interesting Data Orientent Blogs @ Medium > https://medium.com/@dhruv.bhatia563
 
 Know More About Me > https://linktr.ee/datascience_with_dhruv
 
